@@ -1,5 +1,0 @@
-To start, go to location bar and earse the 
-text there and replace it with cmd.exe 
-or hit the cmd application in the folder 
-once you are in type Fixer.cmd
-You will have to run as an administrator
